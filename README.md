@@ -61,7 +61,7 @@ public async static Task<HTTPResponse> Ping(HTTPRequest request)
 - Access request data using the `HTTPRequest` object.
 
 ```csharp
-Cookie = request.Cookies["token"];
+Cookie token = request.Cookies["token"];
 string someParameter = request.Queries["someKey"];
 string body = request.Body;
 string Referer = request.Headers["Referer"];
