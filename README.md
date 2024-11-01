@@ -10,12 +10,11 @@ An efficient and lightweight C2 (Command and Control) server built for secure co
 - **Routing**: Custom routing for handling requests and responses.
 - **Custom Protocol**: Built-in support for custom protocols and data serialization.
 
-## Table of Contents
-- (Usage)[#usage]
-- (Configuration)[#configuration]
-- (API Reference)[#api-reference]
-- (License)[#license]
-
+## Contents
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [API Reference](#api-reference)
+- [License](#license)
 
 ## Usage
 
